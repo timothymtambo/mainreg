@@ -1,0 +1,2 @@
+# mainreg
+Database for registry
